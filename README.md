@@ -1,5 +1,5 @@
 # VHPM Repository - Information
 
-s
+Repo is private
 
 
